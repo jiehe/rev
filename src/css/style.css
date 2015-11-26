@@ -1,0 +1,13 @@
+
+
+h1{
+    margin:50px;
+    color:red;
+}
+
+.img{
+    background-image:url('../images/abd.jpg');
+    height: 77px;
+    width: 77px;
+    margin: 0px auto;
+}
